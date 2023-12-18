@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Younes Loubaidi, Engineer in Applied Mathematics with a keen interest in the application of machine learning techniques
+- 📫 younes.loubaidi1@gmail.com, younes.loubaidi@safrangroup.com
